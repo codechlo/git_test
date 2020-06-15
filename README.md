@@ -1,1 +1,1 @@
-This is codechloe's first git project!
+This is codechlo's first git project!
